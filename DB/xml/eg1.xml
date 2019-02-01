@@ -1,0 +1,10 @@
+<students>
+    <student rno = "112">
+        <gender> F </gender>
+        <tables>
+            <cno>112</cno>
+            ...
+        </tables>
+        ...
+    </student>
+</students>
